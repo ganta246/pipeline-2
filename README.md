@@ -12,3 +12,10 @@ pipeline {
   stages {
   stage ('build')
   src "git -credentials" git -htttps:// github.com/git repo jenkin
+pipeline {
+    agent any
+    stages {
+    
+    how to war file deploy 
+    create job smoke test 
+    
